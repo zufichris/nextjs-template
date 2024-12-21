@@ -1,10 +1,12 @@
 
-```markdown
 # Next.js Template
 
 This is a Next.js template with a well-structured folder architecture to help you start your new projects quickly and efficiently.
 
 ---
+
+## Folder Structure
+
 
 ## Folder Structure
 
